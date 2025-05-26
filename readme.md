@@ -1,5 +1,4 @@
-# LibreTV - 免费在线视频搜索与观看平台
-dy.282855.xyz
+# dy.282855.xyz - 免费在线视频搜索与观看平台
 
 <div align="center">
   <img src="image/logo.png" alt="LibreTV Logo" width="120">
